@@ -1,0 +1,7 @@
+概要,ステージ,モデルID,メッシュ名,スケルトン名,アニメーション名
+プレイヤー,1000,100,Resource/Model/Player/Player.msh,Resource/Model/Player/Player.skl,Resource/Model/Player/Player.anm
+白おばけ,1000,111,Resource/Model/Ghost/GhostWhite.msh,Resource/Model/Ghost/GhostWhite.skl,Resource/Model/Ghost/GhostWhite.anm
+赤おばけ,1000,112,Resource/Model/Ghost/GhostRed.msh,Resource/Model/Ghost/GhostRed.skl,Resource/Model/Ghost/GhostRed.anm
+緑おばけ,1000,113,Resource/Model/Ghost/GhostGreen.msh,Resource/Model/Ghost/GhostGreen.skl,Resource/Model/Ghost/GhostGreen.anm
+青おばけ,1000,114,Resource/Model/Ghost/GhostBlue.msh,Resource/Model/Ghost/GhostBlue.skl,Resource/Model/Ghost/GhostBlue.anm
+オルゴールおばけ,1000,115,Resource/Model/Ghost/GhostMusicBox.msh,Resource/Model/Ghost/GhostMusicBox.skl,Resource/Model/Ghost/GhostMusicBox.anm

@@ -1,0 +1,10 @@
+概要,ステージ,SEのID,モデル名
+攻撃を受けた時のSE,1,101,Resource/SE/HitSE.wav
+プレイヤーが歩くSE,1,102,Resource/SE/WalkSE.wav
+アイテムを拾うSE,1,103,Resource/SE/GetItemSE.wav
+敵に発見されるSE,1,120,Resource/SE/DiscoverySE.wav
+敵が攻撃するSE,1,121,Resource/SE/EnemyAttackSE.wav
+ポーズ画面を開くSE,1,130,Resource/SE/OpenPauseSE.wav
+ポーズ画面の決定SE,1,131,Resource/SE/PauseCancel.wav
+ポーズ画面のカーソル移動SE,1,132,Resource/SE/CursorSE.wav
+ドアを開けるSE,1,140,Resource/SE/OpenDoorSE.wav
